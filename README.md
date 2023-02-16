@@ -10,6 +10,15 @@ Companies hiring US only, East Coast only, Europe only, etc. shouldn't be includ
 
 **Contributions are welcome.**
 
+## Why hiring globally?
+
+Personally, I always prefer to work for companies with global hiring. It means I don't need to care where I'm going to live and they're often more diverse as well.
+
+## How to hire globally?
+
+Companies like [Remote](https://remote.com/) help you to hire globally. They handle payroll and make sure you're fully compliant with local laws.
+PS. I'm not being paid to recommend them. I just like their work.
+
 ---
 
 ## The list
