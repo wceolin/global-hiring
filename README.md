@@ -21,13 +21,16 @@ PS. I'm not being paid to recommend them. I just like their work.
 
 ## Companies hiring globally
 
-| Company                                      | Business/products         | Tech stack/skills                    | Restrictions |
-| -------------------------------------------- | ------------------------- | ------------------------------------ | ------------ |
-| [37 Signals](https://37signals.com/)         | Productivity tools        | Ruby, Ruby on Rails                  |              |
-| [Doist](https://doist.com/)                  | Productivity              | Python, TypeScript                   |              |
-| [Migaku](https://www.migaku.io/)             | Language learning         | Vue                                  |              |
-| [Profixy](https://proxify.io/)               | Hiring/vetting developers | Java, Golang                         |              |
-| [Remote](https://remote.com/)                | Global hiring and payroll | Elixir, Phoenix, Next.js, TypeScript |              |
-| [Service Bell](https://www.servicebell.com/) | Live chat                 | Python, Flask, TypeScript, React     |              |
-| [Standard Bots](https://standardbots.com/)   | Robotics                  | C++, Node.js, TypeScript, Next.js    |              |
-| [Sticker Mule](https://www.stickermule.com/) | E-commerce                | Golang, JavaScript                   |              |
+- Open salary = Company shares salary information on jobs ads.
+- Restrictions = Global hiring with some restrictions. If empty, then we don't know if the company has hiring restrictions.
+
+| Company                                      | Business/products         | Tech stack/skills                    | Open Salary | Restrictions |
+| -------------------------------------------- | ------------------------- | ------------------------------------ | ----------- | ------------ |
+| [37 Signals](https://37signals.com/)         | Productivity tools        | Ruby, Ruby on Rails                  | Yes         |              |
+| [Doist](https://doist.com/)                  | Productivity              | Python, TypeScript                   | No          |              |
+| [Migaku](https://www.migaku.io/)             | Language learning         | Vue                                  | Yes         |              |
+| [Proxify](https://proxify.io/)               | Hiring/vetting developers | Java, Golang                         | Yes         |              |
+| [Remote](https://remote.com/)                | Global hiring and payroll | Elixir, Phoenix, Next.js, TypeScript | No          |              |
+| [Service Bell](https://www.servicebell.com/) | Live chat                 | Python, Flask, TypeScript, React     | No          |              |
+| [Standard Bots](https://standardbots.com/)   | Robotics                  | C++, Node.js, TypeScript, Next.js    | No          |              |
+| [Sticker Mule](https://www.stickermule.com/) | E-commerce                | Golang, JavaScript                   | Yes         |              |
