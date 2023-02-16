@@ -33,5 +33,6 @@ PS. I'm not being paid to recommend them. I just like their work.
 | [Proxify](https://proxify.io/)               | Hiring/vetting developers | Java, Golang                         | Yes         |              |
 | [Remote](https://remote.com/)                | Global hiring and payroll | Elixir, Phoenix, Next.js, TypeScript | No          |              |
 | [Service Bell](https://www.servicebell.com/) | Live chat                 | Python, Flask, TypeScript, React     | No          |              |
+| [Spruce](https://www.spruceid.com/)          | Identity control          | JavaScript                           | No          |              |
 | [Standard Bots](https://standardbots.com/)   | Robotics                  | C++, Node.js, TypeScript, Next.js    | No          |              |
 | [Sticker Mule](https://www.stickermule.com/) | E-commerce                | Golang, JavaScript                   | Yes         |              |
