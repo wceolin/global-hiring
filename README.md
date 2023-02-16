@@ -52,6 +52,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [Buffer](https://buffer.com/)                    | Social media tools        | PHP, JavaScript              | Yes         |                                         |
 | [Cal](https://cal.com)                           | Scheduling infrastructure | TypeScript                   | Yes         |                                         |
 | [Deepgram](https://deepgram.com/)                | Speech recognition        | Python                       | Yes         |                                         |
+| [designstripe](https://designstripe.com/)        | Design tools              | TypeScript, Python           | No          |                                         |
 | [Doist](https://doist.com/)                      | Productivity              | Python, TypeScript           | No          |                                         |
 | [Empower](https://empower.me/)                   | FinTech                   | C#, Kotlin, Swift            | No          | Some roles aren't global                |
 | [Fly.io](https://fly.io/)                        | Cloud hosting             | Rust, Go, Ruby, Elixir       | Yes         |                                         |
