@@ -27,6 +27,7 @@ PS. I'm not being paid to recommend them. I just like their work.
 | Company                                      | Business/products         | Tech stack/skills                    | Open Salary | Restrictions |
 | -------------------------------------------- | ------------------------- | ------------------------------------ | ----------- | ------------ |
 | [37 Signals](https://37signals.com/)         | Productivity tools        | Ruby, Ruby on Rails                  | Yes         |              |
+| [Cal](https://cal.com)                       | Scheduling infrastructure | TypeScript, Next.js                  | Yes         |              |
 | [Doist](https://doist.com/)                  | Productivity              | Python, TypeScript                   | No          |              |
 | [Migaku](https://www.migaku.io/)             | Language learning         | Vue                                  | Yes         |              |
 | [Proxify](https://proxify.io/)               | Hiring/vetting developers | Java, Golang                         | Yes         |              |
