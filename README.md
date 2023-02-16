@@ -58,4 +58,5 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [Spruce](https://www.spruceid.com/)          | Identity control          | JavaScript               | No          |                                         |
 | [Standard Bots](https://standardbots.com/)   | Robotics                  | C++, TypeScript          | No          |                                         |
 | [Sticker Mule](https://www.stickermule.com/) | E-commerce                | Golang, JavaScript       | Yes         |                                         |
+| [Xapo Bank](https://www.xapo.com/)           | Banking, crypto           | Python, Kotlin           | No          |                                         |
 | [Zapier](https://zapier.com/)                | Automation tools          | Python, JavaScript       | Yes         | Brazil, Germany, Italy, Portugal, Spain |
