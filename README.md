@@ -45,6 +45,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | Company                                      | Business/products         | Languages                | Open Salary | Restrictions                            |
 | -------------------------------------------- | ------------------------- | ------------------------ | ----------- | --------------------------------------- |
 | [37 Signals](https://37signals.com/)         | Productivity tools        | Ruby                     | Yes         |                                         |
+| [Airbase](https://www.airbase.com/)          | FinTech                   | Python, JavaScript       | No          |                                         |
 | [Cal](https://cal.com)                       | Scheduling infrastructure | TypeScript               | Yes         |                                         |
 | [Deepgram](https://deepgram.com/)            | Speech recognition        | Python                   | Yes         |                                         |
 | [Doist](https://doist.com/)                  | Productivity              | Python, TypeScript       | No          |                                         |
