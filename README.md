@@ -57,6 +57,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [Giant Swarm](https://www.giantswarm.io/)     | Cloud                     |                              | No          |                                         |
 | [Iterative](https://iterative.ai/)            | Machine learning          | Python, TypeScript           | Yes         |                                         |
 | [Migaku](https://www.migaku.io/)              | Language learning         | JavaScript                   | Yes         |                                         |
+| [OpenCraft](https://opencraft.com/)           | E-learning                | Python, JavaScript           | No          |                                         |
 | [Ox](https://ox.work/)                        | Coversation coach         | Python, TypeScript           | No          |                                         |
 | [Pitch](https://pitch.com/)                   | Presentation tools        | TypeScript                   | No          |                                         |
 | [Protocol Labs](https://protocol.ai/)         | Web3                      | JavaScript, Python, Go, Rust | Yes         |                                         |
