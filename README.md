@@ -57,6 +57,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [Empower](https://empower.me/)                   | FinTech                   | C#, Kotlin, Swift            | No          | Some roles aren't global                |
 | [Fly.io](https://fly.io/)                        | Cloud hosting             | Rust, Go, Ruby, Elixir       | Yes         |                                         |
 | [Giant Swarm](https://www.giantswarm.io/)        | Cloud                     |                              | No          |                                         |
+| [Invisible](https://invisible.co)                | Operations as a Service.  | Python, Typescript.          | Yes.        | No US Trade Sanctioned Counties.        |
 | [Iterative](https://iterative.ai/)               | Machine learning          | Python, TypeScript           | Yes         |                                         |
 | [Migaku](https://www.migaku.io/)                 | Language learning         | JavaScript                   | Yes         |                                         |
 | [OpenCraft](https://opencraft.com/)              | E-learning                | Python, JavaScript           | No          |                                         |
