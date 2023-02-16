@@ -33,6 +33,9 @@ Some of the rules to be included in this list:
 
 - The company needs to hire remotely in all continents.
 - The company cannot restrict hiring to more than 15 countries.
+- The company cannot pay less than $50k/year (USD) for engineering roles.
+
+If you see a company in the list that doesn't meet the criteria above, please let me know or open a PR to remove them.
 
 ## Companies hiring globally
 
