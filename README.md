@@ -51,6 +51,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [Doist](https://doist.com/)                   | Productivity              | Python, TypeScript           | No          |                                         |
 | [Empower](https://empower.me/)                | FinTech                   | C#, Kotlin, Swift            | No          | Some roles aren't global                |
 | [Fly.io](https://fly.io/)                     | Cloud hosting             | Rust, Go, Ruby, Elixir       | Yes         |                                         |
+| [Giant Swarm](https://www.giantswarm.io/)     | Cloud                     |                              | No          |                                         |
 | [Migaku](https://www.migaku.io/)              | Language learning         | JavaScript                   | Yes         |                                         |
 | [Pitch](https://pitch.com/)                   | Presentation tools        | TypeScript                   | No          |                                         |
 | [Protocol Labs](https://protocol.ai/)         | Web3                      | JavaScript, Python, Go, Rust | Yes         |                                         |
