@@ -29,6 +29,7 @@ PS. I'm not being paid to recommend them. I just like their work.
 | [37 Signals](https://37signals.com/)         | Productivity tools        | Ruby               | Yes         |                                         |
 | [Cal](https://cal.com)                       | Scheduling infrastructure | TypeScript         | Yes         |                                         |
 | [Doist](https://doist.com/)                  | Productivity              | Python, TypeScript | No          |                                         |
+| [Empower](https://empower.me/)               | FinTech                   | C#, Kotlin, Swift  | No          | Some roles aren't global                |
 | [Migaku](https://www.migaku.io/)             | Language learning         | JavaScript         | Yes         |                                         |
 | [Proxify](https://proxify.io/)               | Hiring/vetting developers | Java, Golang       | Yes         |                                         |
 | [Remote](https://remote.com/)                | Global hiring and payroll | Elixir, TypeScript | No          |                                         |
