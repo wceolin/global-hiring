@@ -42,22 +42,23 @@ If you see a company in the list that doesn't meet the criteria above, please le
 - Open salary = Company shares salary information on jobs ads.
 - Restrictions = Global hiring with some restrictions. If empty, then we don't know if the company has hiring restrictions.
 
-| Company                                      | Business/products         | Languages                | Open Salary | Restrictions                            |
-| -------------------------------------------- | ------------------------- | ------------------------ | ----------- | --------------------------------------- |
-| [37 Signals](https://37signals.com/)         | Productivity tools        | Ruby                     | Yes         |                                         |
-| [Airbase](https://www.airbase.com/)          | FinTech                   | Python, JavaScript       | No          |                                         |
-| [Cal](https://cal.com)                       | Scheduling infrastructure | TypeScript               | Yes         |                                         |
-| [Deepgram](https://deepgram.com/)            | Speech recognition        | Python                   | Yes         |                                         |
-| [Doist](https://doist.com/)                  | Productivity              | Python, TypeScript       | No          |                                         |
-| [Empower](https://empower.me/)               | FinTech                   | C#, Kotlin, Swift        | No          | Some roles aren't global                |
-| [Migaku](https://www.migaku.io/)             | Language learning         | JavaScript               | Yes         |                                         |
-| [Pitch](https://pitch.com/)                  | Presentation tools        | TypeScript               | No          |                                         |
-| [Proxify](https://proxify.io/)               | Hiring/vetting developers | Java, Golang             | Yes         |                                         |
-| [Remote](https://remote.com/)                | Global hiring and payroll | Elixir, TypeScript       | No          |                                         |
-| [SafetyWing](https://safetywing.com/)        | Insurance for nomads      | Java, Kotlin, JavaScript | No          |                                         |
-| [Service Bell](https://www.servicebell.com/) | Live chat                 | Python, TypeScript       | No          |                                         |
-| [Spruce](https://www.spruceid.com/)          | Identity control          | JavaScript               | No          |                                         |
-| [Standard Bots](https://standardbots.com/)   | Robotics                  | C++, TypeScript          | No          |                                         |
-| [Sticker Mule](https://www.stickermule.com/) | E-commerce                | Golang, JavaScript       | Yes         |                                         |
-| [Xapo Bank](https://www.xapo.com/)           | Banking, crypto           | Python, Kotlin           | No          |                                         |
-| [Zapier](https://zapier.com/)                | Automation tools          | Python, JavaScript       | Yes         | Brazil, Germany, Italy, Portugal, Spain |
+| Company                                      | Business/products         | Languages                    | Open Salary | Restrictions                            |
+| -------------------------------------------- | ------------------------- | ---------------------------- | ----------- | --------------------------------------- |
+| [37 Signals](https://37signals.com/)         | Productivity tools        | Ruby                         | Yes         |                                         |
+| [Airbase](https://www.airbase.com/)          | FinTech                   | Python, JavaScript           | No          |                                         |
+| [Cal](https://cal.com)                       | Scheduling infrastructure | TypeScript                   | Yes         |                                         |
+| [Deepgram](https://deepgram.com/)            | Speech recognition        | Python                       | Yes         |                                         |
+| [Doist](https://doist.com/)                  | Productivity              | Python, TypeScript           | No          |                                         |
+| [Empower](https://empower.me/)               | FinTech                   | C#, Kotlin, Swift            | No          | Some roles aren't global                |
+| [Migaku](https://www.migaku.io/)             | Language learning         | JavaScript                   | Yes         |                                         |
+| [Pitch](https://pitch.com/)                  | Presentation tools        | TypeScript                   | No          |                                         |
+| [Protocol Labs](https://protocol.ai/)        | Web3                      | JavaScript, Python, Go, Rust | Yes         |                                         |
+| [Proxify](https://proxify.io/)               | Hiring/vetting developers | Java, Golang                 | Yes         |                                         |
+| [Remote](https://remote.com/)                | Global hiring and payroll | Elixir, TypeScript           | No          |                                         |
+| [SafetyWing](https://safetywing.com/)        | Insurance for nomads      | Java, Kotlin, JavaScript     | No          |                                         |
+| [Service Bell](https://www.servicebell.com/) | Live chat                 | Python, TypeScript           | No          |                                         |
+| [Spruce](https://www.spruceid.com/)          | Identity control          | JavaScript                   | No          |                                         |
+| [Standard Bots](https://standardbots.com/)   | Robotics                  | C++, TypeScript              | No          |                                         |
+| [Sticker Mule](https://www.stickermule.com/) | E-commerce                | Golang, JavaScript           | Yes         |                                         |
+| [Xapo Bank](https://www.xapo.com/)           | Banking, crypto           | Python, Kotlin               | No          |                                         |
+| [Zapier](https://zapier.com/)                | Automation tools          | Python, JavaScript           | Yes         | Brazil, Germany, Italy, Portugal, Spain |
