@@ -50,6 +50,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [Doist](https://doist.com/)                  | Productivity              | Python, TypeScript       | No          |                                         |
 | [Empower](https://empower.me/)               | FinTech                   | C#, Kotlin, Swift        | No          | Some roles aren't global                |
 | [Migaku](https://www.migaku.io/)             | Language learning         | JavaScript               | Yes         |                                         |
+| [Pitch](https://pitch.com/)                  | Presentation tools        | TypeScript               | No          |                                         |
 | [Proxify](https://proxify.io/)               | Hiring/vetting developers | Java, Golang             | Yes         |                                         |
 | [Remote](https://remote.com/)                | Global hiring and payroll | Elixir, TypeScript       | No          |                                         |
 | [SafetyWing](https://safetywing.com/)        | Insurance for nomads      | Java, Kotlin, JavaScript | No          |                                         |
