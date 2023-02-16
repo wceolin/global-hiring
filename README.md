@@ -53,6 +53,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [Fly.io](https://fly.io/)                     | Cloud hosting             | Rust, Go, Ruby, Elixir       | Yes         |                                         |
 | [Giant Swarm](https://www.giantswarm.io/)     | Cloud                     |                              | No          |                                         |
 | [Migaku](https://www.migaku.io/)              | Language learning         | JavaScript                   | Yes         |                                         |
+| [Ox](https://ox.work/)                        | Coversation coach         | Python, TypeScript           | No          |                                         |
 | [Pitch](https://pitch.com/)                   | Presentation tools        | TypeScript                   | No          |                                         |
 | [Protocol Labs](https://protocol.ai/)         | Web3                      | JavaScript, Python, Go, Rust | Yes         |                                         |
 | [Proxify](https://proxify.io/)                | Hiring/vetting developers | Java, Golang                 | Yes         |                                         |
