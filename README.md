@@ -24,15 +24,16 @@ PS. I'm not being paid to recommend them. I just like their work.
 - Open salary = Company shares salary information on jobs ads.
 - Restrictions = Global hiring with some restrictions. If empty, then we don't know if the company has hiring restrictions.
 
-| Company                                      | Business/products         | Tech stack/skills                    | Open Salary | Restrictions |
-| -------------------------------------------- | ------------------------- | ------------------------------------ | ----------- | ------------ |
-| [37 Signals](https://37signals.com/)         | Productivity tools        | Ruby, Ruby on Rails                  | Yes         |              |
-| [Cal](https://cal.com)                       | Scheduling infrastructure | TypeScript, Next.js                  | Yes         |              |
-| [Doist](https://doist.com/)                  | Productivity              | Python, TypeScript                   | No          |              |
-| [Migaku](https://www.migaku.io/)             | Language learning         | Vue                                  | Yes         |              |
-| [Proxify](https://proxify.io/)               | Hiring/vetting developers | Java, Golang                         | Yes         |              |
-| [Remote](https://remote.com/)                | Global hiring and payroll | Elixir, Phoenix, Next.js, TypeScript | No          |              |
-| [Service Bell](https://www.servicebell.com/) | Live chat                 | Python, Flask, TypeScript, React     | No          |              |
-| [Spruce](https://www.spruceid.com/)          | Identity control          | JavaScript                           | No          |              |
-| [Standard Bots](https://standardbots.com/)   | Robotics                  | C++, Node.js, TypeScript, Next.js    | No          |              |
-| [Sticker Mule](https://www.stickermule.com/) | E-commerce                | Golang, JavaScript                   | Yes         |              |
+| Company                                      | Business/products         | Languages          | Open Salary | Restrictions                            |
+| -------------------------------------------- | ------------------------- | ------------------ | ----------- | --------------------------------------- |
+| [37 Signals](https://37signals.com/)         | Productivity tools        | Ruby               | Yes         |                                         |
+| [Cal](https://cal.com)                       | Scheduling infrastructure | TypeScript         | Yes         |                                         |
+| [Doist](https://doist.com/)                  | Productivity              | Python, TypeScript | No          |                                         |
+| [Migaku](https://www.migaku.io/)             | Language learning         | JavaScript         | Yes         |                                         |
+| [Proxify](https://proxify.io/)               | Hiring/vetting developers | Java, Golang       | Yes         |                                         |
+| [Remote](https://remote.com/)                | Global hiring and payroll | Elixir, TypeScript | No          |                                         |
+| [Service Bell](https://www.servicebell.com/) | Live chat                 | Python, TypeScript | No          |                                         |
+| [Spruce](https://www.spruceid.com/)          | Identity control          | JavaScript         | No          |                                         |
+| [Standard Bots](https://standardbots.com/)   | Robotics                  | C++, TypeScript    | No          |                                         |
+| [Sticker Mule](https://www.stickermule.com/) | E-commerce                | Golang, JavaScript | Yes         |                                         |
+| [Zapier](https://zapier.com/)                | Automation tools          | Python, JavaScript | Yes         | Brazil, Germany, Italy, Portugal, Spain |
