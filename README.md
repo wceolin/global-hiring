@@ -27,6 +27,13 @@ Some of the benefits include (feel free to improve this list):
 Companies like [Remote](https://remote.com/) help you to hire globally. They handle payroll and make sure you're fully compliant with local laws.
 PS. I'm not being paid to recommend them. I just like their work.
 
+## Rules
+
+Some of the rules to be included in this list:
+
+- The company needs to hire remotely in all continents.
+- The company cannot restrict hiring to more than 15 countries.
+
 ## Companies hiring globally
 
 - Open salary = Company shares salary information on jobs ads.
