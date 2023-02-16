@@ -12,7 +12,15 @@ Companies hiring US only, East Coast only, Europe only, etc. shouldn't be includ
 
 ## Why hiring globally?
 
-Personally, I always prefer to work for companies with global hiring. It means I don't need to care where I'm going to live and they're often more diverse as well.
+Some of the benefits include (feel free to improve this list):
+
+- **Access to a larger talent pool:** When a company limits its hiring to a specific geographic region, it may miss out on highly skilled workers who are located elsewhere. By hiring remote workers globally, a company can tap into a larger talent pool and find the best candidates for each role.
+- **Diversity and inclusion:** By hiring remote workers from around the world, a company can create a more diverse and inclusive workforce. This can bring different perspectives and ideas to the table, leading to better problem-solving and innovation.
+- **Flexibility:** Employees don't need to worry about where they'll live. They can move abroad and retain their jobs. It also allows for people to have flexible lifestyles (e.g. digital nomads). This can lead to increased job satisfaction and lower turnover rates.
+- **Access to new markets:** Hiring remote workers from different regions can provide a company with valuable insights into new markets and customer segments. This can be especially important for companies looking to expand globally, as remote workers can provide on-the-ground knowledge and expertise.
+- **24/7 coverage:** When a company hires remote workers from different time zones, it can provide 24/7 coverage for its customers or clients. This can be especially important for companies that have customers in different parts of the world, as it can help to ensure that someone is always available to respond to inquiries or issues.
+- **Language skills:** When a company hires remote workers from different regions, it can gain access to a range of language skills. This can be especially important for companies looking to expand globally or serve customers in different parts of the world.
+- **Resilience:** Hiring remote workers from different regions can help to make a company more resilient to external factors, such as natural disasters, political unrest, or economic downturns. With a distributed workforce, a company can more easily adapt to changing circumstances and continue to operate effectively in challenging situations.
 
 ## How to hire globally?
 
