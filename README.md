@@ -48,6 +48,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [Airbase](https://www.airbase.com/)           | FinTech                   | Python, JavaScript           | No          |                                         |
 | [Almanac](https://almanac.io/)                | Collaboration tools       | Ruby, JavaScript             | No          |                                         |
 | [Automattic](https://automattic.com/)         | Open-source tools         | PHP, JavaScript              | No          |                                         |
+| [Buffer](https://buffer.com/)                 | Social media tools        | PHP, JavaScript              | Yes         |                                         |
 | [Cal](https://cal.com)                        | Scheduling infrastructure | TypeScript                   | Yes         |                                         |
 | [Deepgram](https://deepgram.com/)             | Speech recognition        | Python                       | Yes         |                                         |
 | [Doist](https://doist.com/)                   | Productivity              | Python, TypeScript           | No          |                                         |
