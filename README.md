@@ -19,12 +19,13 @@ Personally, I always prefer to work for companies with global hiring. It means I
 Companies like [Remote](https://remote.com/) help you to hire globally. They handle payroll and make sure you're fully compliant with local laws.
 PS. I'm not being paid to recommend them. I just like their work.
 
----
+## Companies hiring globally
 
-## The list
-
-|Company|Business/products|Tech stack/skills|
-|-|-|-|
-|[37 Signals](https://37signals.com/)|Productivity tools|Ruby, Ruby on Rails|
-|[Doist](https://doist.com/)|Productivity|Python, TypeScript|
-|[Remote](https://remote.com/)|Global hiring and payroll|Elixir, Phoenix, Next.js, TypeScript|
+|Company|Business/products|Tech stack/skills|Restrictions|
+|-|-|-|-|
+|[37 Signals](https://37signals.com/)|Productivity tools|Ruby, Ruby on Rails|-|
+|[Doist](https://doist.com/)|Productivity|Python, TypeScript|-|
+|[Migaku](https://www.migaku.io/)|Language learning|Vue|-|
+|[Profixy](https://proxify.io/)|Hiring/vetting developers|Java, Golang|-|
+|[Remote](https://remote.com/)|Global hiring and payroll|Elixir, Phoenix, Next.js, TypeScript|-|
+|[Standard Bots](https://standardbots.com/)|Robotics|C++, Node.js, TypeScript, Next.js|-|
