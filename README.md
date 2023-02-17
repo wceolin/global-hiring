@@ -42,38 +42,43 @@ If you see a company in the list that doesn't meet the criteria above, please le
 - Open salary = Company shares salary information on jobs ads.
 - Restrictions = Global hiring with some restrictions. If empty, then we don't know if the company has hiring restrictions.
 
-| Company                                          | Business/products         | Languages                    | Open Salary | Restrictions                            |
-| ------------------------------------------------ | ------------------------- | ---------------------------- | ----------- | --------------------------------------- |
-| [37 Signals](https://37signals.com/)             | Productivity tools        | Ruby                         | Yes         |                                         |
-| [AcceleratorApp](https://www.acceleratorapp.co/) | Incubators, accelerators  | TypeScript                   | No          |                                         |
-| [Airbase](https://www.airbase.com/)              | FinTech                   | Python, JavaScript           | No          |                                         |
-| [Almanac](https://almanac.io/)                   | Collaboration tools       | Ruby, JavaScript             | No          |                                         |
-| [Automattic](https://automattic.com/)            | Open-source tools         | PHP, JavaScript              | No          |                                         |
-| [Buffer](https://buffer.com/)                    | Social media tools        | PHP, JavaScript              | Yes         |                                         |
-| [Cal](https://cal.com)                           | Scheduling infrastructure | TypeScript                   | Yes         |                                         |
-| [Deepgram](https://deepgram.com/)                | Speech recognition        | Python                       | Yes         |                                         |
-| [Deno](https://deno.com/)                        | Developer Tools / PaaS    | Rust, TypeScript, WASM       | No          |                                         |
-| [designstripe](https://designstripe.com/)        | Design tools              | TypeScript, Python           | No          |                                         |
-| [Doist](https://doist.com/)                      | Productivity              | Python, TypeScript           | No          |                                         |
-| [Empower](https://empower.me/)                   | FinTech                   | C#, Kotlin, Swift            | No          | Some roles aren't global                |
-| [Fly.io](https://fly.io/)                        | Cloud hosting             | Rust, Go, Ruby, Elixir       | Yes         |                                         |
-| [Giant Swarm](https://www.giantswarm.io/)        | Cloud                     |                              | No          |                                         |
-| [Invisible](https://invisible.co)                | Operations as a Service.  | Python, Typescript.          | Yes.        | No US Trade Sanctioned Counties.        |
-| [Iterative](https://iterative.ai/)               | Machine learning          | Python, TypeScript           | Yes         |                                         |
-| [Migaku](https://www.migaku.io/)                 | Language learning         | JavaScript                   | Yes         |                                         |
-| [OpenCraft](https://opencraft.com/)              | E-learning                | Python, JavaScript           | No          |                                         |
-| [Ox](https://ox.work/)                           | Coversation coach         | Python, TypeScript           | No          |                                         |
-| [Pitch](https://pitch.com/)                      | Presentation tools        | TypeScript                   | No          |                                         |
-| [Protocol Labs](https://protocol.ai/)            | Web3                      | JavaScript, Python, Go, Rust | Yes         |                                         |
-| [Proxify](https://proxify.io/)                   | Hiring/vetting developers | Java, Golang                 | Yes         |                                         |
-| [Remote](https://remote.com/)                    | Global hiring and payroll | Elixir, TypeScript           | No          |                                         |
-| [rtCamp](https://rtcamp.com/)                    | WordPress projects        | PHP, JavaScript              | No          |                                         |
-| [SafetyWing](https://safetywing.com/)            | Insurance for nomads      | Java, Kotlin, JavaScript     | No          |                                         |
-| [Service Bell](https://www.servicebell.com/)     | Live chat                 | Python, TypeScript           | No          |                                         |
-| [Spruce](https://www.spruceid.com/)              | Identity control          | JavaScript                   | No          |                                         |
-| [Standard Bots](https://standardbots.com/)       | Robotics                  | C++, TypeScript              | No          |                                         |
-| [Sticker Mule](https://www.stickermule.com/)     | E-commerce                | Golang, JavaScript           | Yes         |                                         |
-| [Unsplash](https://unsplash.com/)                | Stock photos              | Ruby                         | No          |                                         |
-| [Xapo Bank](https://www.xapo.com/)               | Banking, crypto           | Python, Kotlin               | No          |                                         |
-| [Wikimedia](https://wikimediafoundation.org/)    | Non-profit                | PHP, Python, Go              | No          |                                         |
-| [Zapier](https://zapier.com/)                    | Automation tools          | Python, JavaScript           | Yes         | Brazil, Germany, Italy, Portugal, Spain |
+| Company                                          | Business/products         | Languages                    | Open Salary | Restrictions                                     |
+| ------------------------------------------------ | ------------------------- | ---------------------------- | ----------- | ------------------------------------------------ |
+| [37 Signals](https://37signals.com/)             | Productivity tools        | Ruby                         | Yes         |                                                  |
+| [AcceleratorApp](https://www.acceleratorapp.co/) | Incubators, accelerators  | TypeScript                   | No          |                                                  |
+| [Airbase](https://www.airbase.com/)              | FinTech                   | Python, JavaScript           | No          |                                                  |
+| [Almanac](https://almanac.io/)                   | Collaboration tools       | Ruby, JavaScript             | No          |                                                  |
+| [Automattic](https://automattic.com/)            | Open-source tools         | PHP, JavaScript              | No          |                                                  |
+| [Buffer](https://buffer.com/)                    | Social media tools        | PHP, JavaScript              | Yes         |                                                  |
+| [Cal](https://cal.com)                           | Scheduling infrastructure | TypeScript                   | Yes         |                                                  |
+| [Deepgram](https://deepgram.com/)                | Speech recognition        | Python                       | Yes         |                                                  |
+| [Deno](https://deno.com/)                        | Developer Tools / PaaS    | Rust, TypeScript, WASM       | No          |                                                  |
+| [designstripe](https://designstripe.com/)        | Design tools              | TypeScript, Python           | No          |                                                  |
+| [Doist](https://doist.com/)                      | Productivity              | Python, TypeScript           | No          |                                                  |
+| [Empower](https://empower.me/)                   | FinTech                   | C#, Kotlin, Swift            | No          | Some roles aren't global                         |
+| [Fly.io](https://fly.io/)                        | Cloud hosting             | Rust, Go, Ruby, Elixir       | Yes         |                                                  |
+| [Forem](https://www.forem.com/)                  | Blogging platform         | Ruby, JavaScript             | Yes         |                                                  |
+| [Ghost](https://ghost.org/)                      | Blogging platform         | JavaScript                   | No          |                                                  |
+| [Giant Swarm](https://www.giantswarm.io/)        | Cloud                     |                              | No          |                                                  |
+| [Gumroad](https://gumroad.com/)                  | Platform for creators     | Ruby, JavaScript             | Yes         |                                                  |
+| [Invisible](https://invisible.co)                | Operations as a Service   | Python, Typescript           | Yes         | USTSC\*                                          |
+| [Iterative](https://iterative.ai/)               | Machine learning          | Python, TypeScript           | Yes         |                                                  |
+| [Migaku](https://www.migaku.io/)                 | Language learning         | JavaScript                   | Yes         |                                                  |
+| [OpenCraft](https://opencraft.com/)              | E-learning                | Python, JavaScript           | No          |                                                  |
+| [Ox](https://ox.work/)                           | Coversation coach         | Python, TypeScript           | No          |                                                  |
+| [Pitch](https://pitch.com/)                      | Presentation tools        | TypeScript                   | No          |                                                  |
+| [Protocol Labs](https://protocol.ai/)            | Web3                      | JavaScript, Python, Go, Rust | Yes         |                                                  |
+| [Proxify](https://proxify.io/)                   | Hiring/vetting developers | Java, Golang                 | Yes         |                                                  |
+| [Remote](https://remote.com/)                    | Global hiring and payroll | Elixir, TypeScript           | No          |                                                  |
+| [rtCamp](https://rtcamp.com/)                    | WordPress projects        | PHP, JavaScript              | No          |                                                  |
+| [SafetyWing](https://safetywing.com/)            | Insurance for nomads      | Java, Kotlin, JavaScript     | No          |                                                  |
+| [Service Bell](https://www.servicebell.com/)     | Live chat                 | Python, TypeScript           | No          |                                                  |
+| [Spruce](https://www.spruceid.com/)              | Identity control          | JavaScript                   | No          |                                                  |
+| [Standard Bots](https://standardbots.com/)       | Robotics                  | C++, TypeScript              | No          |                                                  |
+| [Sticker Mule](https://www.stickermule.com/)     | E-commerce                | Golang, JavaScript           | Yes         |                                                  |
+| [Unsplash](https://unsplash.com/)                | Stock photos              | Ruby                         | No          |                                                  |
+| [Xapo Bank](https://www.xapo.com/)               | Banking, crypto           | Python, Kotlin               | No          |                                                  |
+| [Wikimedia](https://wikimediafoundation.org/)    | Non-profit                | PHP, Python, Go              | No          |                                                  |
+| [Zapier](https://zapier.com/)                    | Automation tools          | Python, JavaScript           | Yes         | Brazil, Germany, Italy, Portugal, Spain, USTSC\* |
+
+- USTSC = US Trade Sanctioned Countries
