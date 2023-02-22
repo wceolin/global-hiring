@@ -51,6 +51,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [Automattic](https://automattic.com/)            | Open-source tools         | PHP, JavaScript              | No          |                                                  |
 | [Buffer](https://buffer.com/)                    | Social media tools        | PHP, JavaScript              | Yes         |                                                  |
 | [Cal](https://cal.com)                           | Scheduling infrastructure | TypeScript                   | Yes         |                                                  |
+| [ConvertKit](https://convertkit.com/)            | Marketing platform        | Ruby                         | Yes         |                                                  |
 | [Deepgram](https://deepgram.com/)                | Speech recognition        | Python                       | Yes         |                                                  |
 | [Deno](https://deno.com/)                        | Developer Tools / PaaS    | Rust, TypeScript, WASM       | No          |                                                  |
 | [designstripe](https://designstripe.com/)        | Design tools              | TypeScript, Python           | No          |                                                  |
