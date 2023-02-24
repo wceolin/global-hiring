@@ -67,6 +67,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [Migaku](https://www.migaku.io/)                 | Language learning         | JavaScript                   | Yes         |                                                  |
 | [OpenCraft](https://opencraft.com/)              | E-learning                | Python, JavaScript           | No          |                                                  |
 | [Ox](https://ox.work/)                           | Coversation coach         | Python, TypeScript           | No          |                                                  |
+| [Percona](https://www.percona.com/)              | Cloud services            | Python                       | No          |                                                  |
 | [Pitch](https://pitch.com/)                      | Presentation tools        | TypeScript                   | No          |                                                  |
 | [Protocol Labs](https://protocol.ai/)            | Web3                      | JavaScript, Python, Go, Rust | Yes         |                                                  |
 | [Proxify](https://proxify.io/)                   | Hiring/vetting developers | Java, Golang                 | Yes         |                                                  |
