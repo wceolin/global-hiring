@@ -57,6 +57,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [designstripe](https://designstripe.com/)        | Design tools              | TypeScript, Python           | No          |                                                  |
 | [Doist](https://doist.com/)                      | Productivity              | Python, TypeScript           | No          |                                                  |
 | [Empower](https://empower.me/)                   | FinTech                   | C#, Kotlin, Swift            | No          | Some roles aren't global                         |
+| [Flightcontrol](https://www.flightcontrol.dev/)  | Cloud hosting             | TypeScript                   | Yes         |                                                  |
 | [Fly.io](https://fly.io/)                        | Cloud hosting             | Rust, Go, Ruby, Elixir       | Yes         |                                                  |
 | [Forem](https://www.forem.com/)                  | Blogging platform         | Ruby, JavaScript             | Yes         |                                                  |
 | [Ghost](https://ghost.org/)                      | Blogging platform         | JavaScript                   | No          |                                                  |
