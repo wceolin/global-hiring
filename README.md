@@ -66,6 +66,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [Invisible](https://invisible.co)                | Operations as a Service   | Python, Typescript           | Yes         | USTSC\*                                          |
 | [Iterative](https://iterative.ai/)               | Machine learning          | Python, TypeScript           | Yes         |                                                  |
 | [Migaku](https://www.migaku.io/)                 | Language learning         | JavaScript                   | Yes         |                                                  |
+| [Mixmax](https://www.mixmax.com/)                | Sales engagement          | TypeScript                   | No          | USA                                              |
 | [OpenCraft](https://opencraft.com/)              | E-learning                | Python, JavaScript           | No          |                                                  |
 | [Ox](https://ox.work/)                           | Coversation coach         | Python, TypeScript           | No          |                                                  |
 | [Percona](https://www.percona.com/)              | Cloud services            | Python                       | No          |                                                  |
