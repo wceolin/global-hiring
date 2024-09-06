@@ -77,6 +77,7 @@ If you see a company in the list that doesn't meet the criteria above, please le
 | [Remote](https://remote.com/)                    | Global hiring and payroll | Elixir, TypeScript           | No          |                                                  |
 | [rtCamp](https://rtcamp.com/)                    | WordPress projects        | PHP, JavaScript              | No          |                                                  |
 | [SafetyWing](https://safetywing.com/)            | Insurance for nomads      | Java, Kotlin, JavaScript     | No          |                                                  |
+| [SearchApi](https://www.searchapi.io/)           | Real-time SERP data       | Ruby, Rails                  | No          |                                                  |
 | [Service Bell](https://www.servicebell.com/)     | Live chat                 | Python, TypeScript           | No          |                                                  |
 | [Spruce](https://www.spruceid.com/)              | Identity control          | JavaScript                   | No          |                                                  |
 | [Standard Bots](https://standardbots.com/)       | Robotics                  | C++, TypeScript              | No          |                                                  |
